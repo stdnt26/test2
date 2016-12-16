@@ -29,5 +29,9 @@ namespace test1216_test2 {
         private void button4_Click(object sender, EventArgs e) {
             button4.Text = "OK4";
         }
+
+        private void button5_Click(object sender, EventArgs e) {
+            button5.Text = "OK5";
+        }
     }
 }
